@@ -1,3 +1,7 @@
+/*
+    infix to prefix;
+*/
+
 #include<iostream>
 #include<stack>
 #include<string>
